@@ -4,6 +4,20 @@
 
 <p>Your ultimate goal is to optimize Maven Fuzzy Factory's marketing channels, website functionality, and product portfolio. Your impact as an analyst will be demonstrated through the measurable progress and success of the company as it evolves under your guidance.</p>
 
+<p>In summary, the project involves leveraging data analysis, SQL skills, and strategic thinking to guide Maven Fuzzy Factory's decision-making processes, optimize its various aspects, and drive its growth trajectory.</p>
+
 <p><b>Applied skills:</b> Data manipulation in SQL using multiple JOINs and Temporary Tables, Business metrics and KPI's analysis. 
   
  **Note:** This project is a part of the <a href="https://www.udemy.com/share/1022oW3@d_BD0cZjj9NmlW8V6ATOSfLA9kKAC4cW3m19Cn8wGy9W3onIBW5pLibtm1BnN3eHJg==/">MySQL Data Analysis & Business Intelligence from Maven</a> </p>
+ 
+<p><h2>Questions</h2>
+
+The main areas of study in this project are:
+
+1. Estimating quarterly growth:
+   a) conversion and revenue growth
+   b) number of sessions split by traffic source
+   c) number of sessions split by device type
+   d) revenue and margin growth split by product
+3. Identifying purchase patterns: Determining when users typically start making purchases after using the app and analyzing factors influencing their buying decisions.
+4. Payback analysis: Examining how worthwhile where the investments?
