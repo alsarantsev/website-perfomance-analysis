@@ -13,11 +13,10 @@
 <p><h2>Questions</h2>
 
 The main areas of study in this project are:
-
-1. Estimating quarterly growth:
+1. Estimating quarterly growth
 <li>conversion and revenue growth</li>
 <li>number of sessions split by traffic source and device type</li>
-2. Estimating the impact of the test: 
+3. Estimating the impact of the test: 
 <li>revenue and conversion growth for lander page test</li>
 <li>revenue growth for billing page test</li>
 3. Estimating product changes impact: 
