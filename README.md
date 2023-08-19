@@ -22,5 +22,12 @@ The main areas of study in this project are:
 3. Estimating product changes impact:
   - overall growth from the new product launching
   - revenue and margin growth for all products
-  - crossell product growth
-4. 
+  - cross-sell product growth
+4. Estimating business patterns through the time period:
+  - day of the week
+  - number of the week
+5. Estimating the refund changes
+6. Estimating the retention rate changes
+7. Estimating performance for repeat sessions:
+  - average time between the first and second session
+  - conversion rate
