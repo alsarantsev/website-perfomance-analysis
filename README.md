@@ -14,15 +14,13 @@
 
 The main areas of study in this project are:
 1. Estimating quarterly growth
-<li>conversion and revenue growth</li>
-<li>number of sessions split by traffic source and device type</li>
-3. Estimating the impact of the test: 
-<li>revenue and conversion growth for lander page test</li>
-<li>revenue growth for billing page test</li>
-3. Estimating product changes impact: 
-<li>overall growth from the new product launching</li>
-<li>revenue and margin growth for all products</li>
-<li>crossell product growth</li>
+  - conversion and revenue growth
+  - number of sessions split by traffic source and device type
+2. Estimating the impact of the test: 
+  - revenue and conversion growth for lander page test
+  - revenue growth for billing page test
+3. Estimating product changes impact:
+  - overall growth from the new product launching
+  - revenue and margin growth for all products
+  - crossell product growth
 4. 
-3. Identifying purchase patterns: Determining when users typically start making purchases after using the app and analyzing factors influencing their buying decisions.
-4. Payback analysis: Examining how worthwhile where the investments?
