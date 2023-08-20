@@ -31,3 +31,7 @@ The main areas of study in this project are:
 7. Estimating performance for repeat sessions:
    - the average time between the first and second session
    - conversion rate
+</p>
+<p><h2>Summary</h2>
+1. The analysis reveals a consistent number of orders and revenue growth of more than x10 times. Regarding conversion rate from session to order and revenue per session - x3 time.
+2. 
