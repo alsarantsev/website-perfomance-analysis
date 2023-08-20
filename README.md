@@ -32,6 +32,9 @@ The main areas of study in this project are:
    - the average time between the first and second session
    - conversion rate
 </p>
+
 <p><h2>Summary</h2>
-1. The analysis reveals a consistent number of orders and revenue growth of more than x10 times. Regarding conversion rate from session to order and revenue per session - x3 time.
-2. 
+  
+1. Based on the analysis, there has been a significant increase in both the number of orders and revenue, by more than 10 times. Additionally, the conversion rate from session to order and revenue per session has improved by 3 times.
+2. There are roughly 50 extra orders per month due to adding a new landing page but has been small changes to the click-to-next page rate. The evaluation of adding the new billing page is 10160 USD.
+3. 
